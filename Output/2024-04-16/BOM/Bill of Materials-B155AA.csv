@@ -1,0 +1,13 @@
+Description,Designator,Quantity,Manufacturer Name,Manufacturer Part Number,Case
+
+"Multilayer Ceramic Capacitors MLCC - SMD/SMT 22UF 25V 10% 1210","C1, C2, C4","3","Murata","GRM21BR61E226ME44L","0805"
+"Capacitor (MLCC) - 100nF / 10V / 0805","C3, C5, C6, C7, C8, C9, C10","7","KEMET","C0805C104K8JACAUTO","0805"
+"Mini Tunic Connector with 4P","J1, J3, J4, J5","4","Molex","53261-0471","SMD"
+"Mini Tunic Connector with 6P","J2","1","Molex","53261-0671",""
+"Bipolar NPN Transistors","Q1, Q2","2","Nexperia","BC847","SOT23-3"
+"Thick Film Resistors - SMD 1/16 W 10 KOhm 1%","R1, R2, R3","3","Vishay","CRCW040210K0FKED","0805"
+"Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%","R4, R5","2","Vishay","CRCW08054K70FKEC","0805"
+"Thick Film Resistors - SMD 1/2 W 47 KOhm 1%","R6, R7","2","Vishay","CRCW080547K0FKECHP","0805"
+"LDO Voltage Regulators 800MA LDO LINEAR REG","U1","1","Texas Instruments","LM1117DT-3.3/NOPB","TO-252-3"
+"8-bit Microcontrollers - MCU 32KB In-system Flash 20MHz 1.8V-5.5V","U2","1","Microchip Technology / Atmel","ATMEGA328P-AU","TQFP-32"
+"Proximity Sensors I2C UV Index and Proximity/Ambient Light Sensor with 1 LED Driver","U3","1","Silicon Labs","SI1145-A10-GMR","QFN-10"

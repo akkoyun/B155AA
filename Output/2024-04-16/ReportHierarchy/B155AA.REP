@@ -1,0 +1,11 @@
+------------------------------------------------------------
+Design Hierarchy Report for B155AA.PrjPcb
+-- 16.04.2024
+-- 12:06:34
+------------------------------------------------------------
+
+B155AA                        SCH        (B155AA.SchDoc)
+    MCU                       SCH        (MCU.SchDoc)
+    Power Regulator           SCH        (3V3 Regulator.SchDoc)
+    UV LED                    SCH        (UV LED.SchDoc)
+    UV Sensor                 SCH        (UV Sensor.SchDoc)

@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+C:\Users\akkoyun\Documents\Github\B155AA\Output\2024-04-16\Pick Place\Pick Place for B155AA.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16.04.24
+Time:       12:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                             Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                                                           
+U3         Si1145-A10-GMR                      BottomLayer SI1145             3543.307      3786.024      180      "Proximity Sensors I2C UV Index and Proximity/Ambient Light Sensor with 1 LED Driver" 
+U2         "8-bit MicroController"             TopLayer    TQFN-32            3937.008      3700.787      0        "8-bit Microcontrollers - MCU 32KB In-system Flash 20MHz 1.8V-5.5V"                   
+U1         "LDO Regulator"                     TopLayer    TO-252             3425.197      3753.248      180      "LDO Voltage Regulators 800MA LDO LINEAR REG"                                         
+R7         "47K - 0805 - %1 - 1/2W"            TopLayer    RESISTOR_0805      4212.598      3779.528      180      "Thick Film Resistors - SMD 1/2 W 47 KOhm 1%"                                         
+R6         "47K - 0805 - %1 - 1/2W"            TopLayer    RESISTOR_0805      4212.598      4173.228      0        "Thick Film Resistors - SMD 1/2 W 47 KOhm 1%"                                         
+R5         "4K7 - 0805 - %1 - 1/16W"           TopLayer    RESISTOR_0805      4212.598      3700.787      0        "Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"                                       
+R4         "4K7 - 0805 - %1 - 1/16W"           TopLayer    RESISTOR_0805      4212.598      4251.968      180      "Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"                                       
+R3         "10K - 0805 - %1 - 1/16W"           TopLayer    RESISTOR_0805      3959.055      4094.488      0        "Thick Film Resistors - SMD 1/16 W 10 KOhm 1%"                                        
+R2         "10K - 0805 - %1 - 1/16W"           TopLayer    RESISTOR_0805      3836.220      4094.488      180      "Thick Film Resistors - SMD 1/16 W 10 KOhm 1%"                                        
+R1         "10K - 0805 - %1 - 1/16W"           TopLayer    RESISTOR_0805      3984.252      3976.378      90       "Thick Film Resistors - SMD 1/16 W 10 KOhm 1%"                                        
+Q2         BC847AQAZ                           TopLayer    SOT-23-3           4212.598      3897.638      270      "Bipolar NPN Transistors"                                                             
+Q1         BC847AQAZ                           TopLayer    SOT-23-3           4212.598      4055.118      90       "Bipolar NPN Transistors"                                                             
+J5         "4P SMD Tunic Connector"            TopLayer    Connector_Tunic_4P 4427.165      3464.567      90       "Mini Tunic Connector with 4P"                                                        
+J4         "4P SMD Tunic Connector"            TopLayer    Connector_Tunic_4P 4427.165      3976.378      90       "Mini Tunic Connector with 4P"                                                        
+J3         "4P SMD Tunic Connector"            TopLayer    Connector_Tunic_4P 3897.638      4269.685      180      "Mini Tunic Connector with 4P"                                                        
+J2         "6P Tunic Connector"                TopLayer    Connector_Tunic_6P 3937.583      3371.851      0        "Mini Tunic Connector with 6P"                                                        
+J1         "4P SMD Tunic Connector"            TopLayer    Connector_Tunic_4P 3425.197      4269.685      180      "Mini Tunic Connector with 4P"                                                        
+C10        "Capacitor - 100nF [0805] (MLCC)"   BottomLayer CAPACITOR_0805     3425.197      3786.024      270      "Capacitor (MLCC) - 100nF / 10V / 0805"                                               
+C9         "Capacitor - 100nF [0805] (MLCC)"   TopLayer    CAPACITOR_0805     4212.598      3622.047      180      "Capacitor (MLCC) - 100nF / 10V / 0805"                                               
+C8         "Capacitor - 100nF [0805] (MLCC)"   TopLayer    CAPACITOR_0805     3661.417      3716.535      0        "Capacitor (MLCC) - 100nF / 10V / 0805"                                               
+C7         "Capacitor - 100nF [0805] (MLCC)"   TopLayer    CAPACITOR_0805     3661.417      3653.543      0        "Capacitor (MLCC) - 100nF / 10V / 0805"                                               
+C6         "Capacitor - 100nF [0805] (MLCC)"   TopLayer    CAPACITOR_0805     3921.260      3976.378      270      "Capacitor (MLCC) - 100nF / 10V / 0805"                                               
+C5         "Capacitor - 100nF [0805] (MLCC)"   TopLayer    CAPACITOR_0805     3425.197      3385.827      90       "Capacitor (MLCC) - 100nF / 10V / 0805"                                               
+C4         "Capacitor - 22uF [1210] (Ceramic)" TopLayer    CAPACITOR_0805     3515.158      3385.827      90       "Multilayer Ceramic Capacitors MLCC - SMD/SMT 22UF 25V 10% 1210"                      
+C3         "Capacitor - 100nF [0805] (MLCC)"   TopLayer    CAPACITOR_0805     3335.236      4015.748      270      "Capacitor (MLCC) - 100nF / 10V / 0805"                                               
+C2         "Capacitor - 22uF [1210] (Ceramic)" TopLayer    CAPACITOR_0805     3425.197      4015.748      270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 22UF 25V 10% 1210"                      
+C1         "Capacitor - 22uF [1210] (Ceramic)" TopLayer    CAPACITOR_0805     3515.157      4015.748      270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 22UF 25V 10% 1210"                      
